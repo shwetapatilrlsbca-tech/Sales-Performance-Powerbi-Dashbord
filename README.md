@@ -1,2 +1,2 @@
 # Sales-Performance-Powerbi-Dashbord
-![Dashboard](Dashboard_Screenshot .png)
+![Dashboard](Dashboard_Screenshot.png)
