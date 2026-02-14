@@ -1,8 +1,6 @@
-# Sales-Performance-Powerbi-Dashbord
+# Sales-Performance-Powerbi-Dashboard
 ![Dashboard](Dashboard_Screenshot.png)
 
-
-📊 Sales Performance Dashboard
 📌 Project Description
 This project is a Sales Performance Dashboard created using Power BI to analyze sales data from the Sample Superstore dataset.
 The dashboard helps in understanding sales trends, profit performance, and customer behavior across different regions and categories.
