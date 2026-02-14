@@ -6,9 +6,9 @@ This project is a Sales Performance Dashboard created using Power BI to analyze 
 The dashboard helps in understanding sales trends, profit performance, and customer behavior across different regions and categories.
 
 # Tools Used
-Power BI
-Microsoft Excel
-Sample Superstore Dataset
+## Power BI
+## Microsoft Excel
+## Sample Superstore Dataset
 
 # Key Features
 Total Sales, Total Profit, Total Orders, and Profit Margin KPIs
